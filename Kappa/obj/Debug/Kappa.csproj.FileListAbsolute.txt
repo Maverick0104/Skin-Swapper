@@ -1,0 +1,6 @@
+C:\Users\Rizie\source\repos\Kappa\Kappa\bin\Debug\Kappa.exe
+C:\Users\Rizie\source\repos\Kappa\Kappa\bin\Debug\Kappa.pdb
+C:\Users\Rizie\source\repos\Kappa\Kappa\obj\Debug\Kappa.csprojAssemblyReference.cache
+C:\Users\Rizie\source\repos\Kappa\Kappa\obj\Debug\Kappa.csproj.CoreCompileInputs.cache
+C:\Users\Rizie\source\repos\Kappa\Kappa\obj\Debug\Kappa.exe
+C:\Users\Rizie\source\repos\Kappa\Kappa\obj\Debug\Kappa.pdb
